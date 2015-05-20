@@ -9,6 +9,8 @@ It uses the *brilliant* **Shrimped Arduino kits** from [Shrimping.it](http://shr
 It has been run as a pop up workshops at
 Walney Primary School Walney Island, Cumbria with [Octopus Collective](http://www.octopuscollective.org)
 Liverpool Maritime Museum
-[Do-It-Anyway festival](http://opensourcingfestivals.eu/events/do-it-anyway-festival-sheffield-uk)
+[Do-It-Anyway festival](http://opensourcingfestivals.eu/events/do-it-anyway-festival-sheffield-uk) at [Access Space](http://access-space.org/)
+
+You can see images from Sheffield [here](https://www.flickr.com/photos/ajsteggell/sets/72157653152049145)
 
 **Note** These files are in progress, particularly the .pdf instructions that need checking and revising
