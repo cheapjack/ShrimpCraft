@@ -14,10 +14,10 @@ It's part of [The Minecraft Of Things](http://minecraftofthings.tumblr.com) whic
 
 ###Workshops
 
-It has been run as pop up workshops at
-Walney Primary School Walney Island, Cumbria with [Octopus Collective](http://www.octopuscollective.org)
-Liverpool Maritime Museum
-[Do-It-Anyway festival](http://opensourcingfestivals.eu/events/do-it-anyway-festival-sheffield-uk) at [Access Space](http://access-space.org/)
+It has been run as pop up workshops for families and children at
+ * Walney Primary School, Walney Island, Cumbria with [Octopus Collective](http://www.octopuscollective.org)
+ * Liverpool Maritime Museum
+ * [Do-It-Anyway festival](http://opensourcingfestivals.eu/events/do-it-anyway-festival-sheffield-uk) at [Access Space](http://access-space.org/)
 
 You can see images from Sheffield [here](https://www.flickr.com/photos/ajsteggell/sets/72157653152049145)
 
