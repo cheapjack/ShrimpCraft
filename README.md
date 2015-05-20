@@ -1,5 +1,7 @@
 # ShrimpCraft
 
+![shrimpcraft copy](https://cloud.githubusercontent.com/assets/128456/7733192/9103e4a8-ff25-11e4-93b1-a7c8c4e9ce5c.jpg)
+
 ##Prototype Kits for Shrimped Arduino sensor boards and code
 
 **ShrimpCraft** is a project initialised from [Amanda Steggell](http://www.testingtesting.org/) and [Ross Dalziels](http://cheapjack.org.uk] project, [Currently](http:/currently.no) to introduce young people to DIY water sensing with basic electronics. 
