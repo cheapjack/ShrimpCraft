@@ -6,7 +6,13 @@
 
 It uses the *brilliant* **Shrimped Arduino kits** from [Shrimping.it](http://shrimping.it/blog/) at its core and also features prototype methods for visualising data on onboard LED flashers, in Processing and in Minecraft using the [mcpi API](https://github.com/martinohanlon/mcpi) and the [FACT](http://fact.co.uk) [Minecraft CloudMaker Server](http://mc.fact.co.uk:8123/)
 
-It has been run as a pop up workshops at
+###Background
+
+Its part of [The Minecraft Of Things](http://minecraftofthings.tumblr.com) which sprang from research with FACT, Mark Wright, Adrian McEwen and Paul Harter funded by AHRC for the [CloudMaker](http://www.fact.co.uk/projects/cloudmaker-making-minecraft-real.aspx) project
+
+###Workshops
+
+It has been run as pop up workshops at
 Walney Primary School Walney Island, Cumbria with [Octopus Collective](http://www.octopuscollective.org)
 Liverpool Maritime Museum
 [Do-It-Anyway festival](http://opensourcingfestivals.eu/events/do-it-anyway-festival-sheffield-uk) at [Access Space](http://access-space.org/)
