@@ -4,13 +4,13 @@
 
 ##Prototype Kits for Shrimped Arduino sensor boards and code
 
-**ShrimpCraft** is a project initialised from [Amanda Steggell](http://www.testingtesting.org/) and [Ross Dalziels](http://cheapjack.org.uk] project, [Currently](http:/currently.no) to introduce young people to DIY water sensing with basic electronics. 
+**ShrimpCraft** is a project initialised from [Amanda Steggell](http://www.testingtesting.org/) and [Ross Dalziel's](http://cheapjack.org.uk] project, [Currently](http:/currently.no) to introduce young people to DIY water sensing with basic electronics. 
 
-It uses the *brilliant* **Shrimped Arduino kits** from [Shrimping.it](http://shrimping.it/blog/) at its core and also features prototype methods for visualising data on onboard LED flashers, in Processing and in Minecraft using the [mcpi API](https://github.com/martinohanlon/mcpi) and the [FACT](http://fact.co.uk) [Minecraft CloudMaker Server](http://mc.fact.co.uk:8123/)
+It uses the *brilliant* **Shrimped Arduino kits** from [Shrimping.it](http://shrimping.it/blog/) at its core and also features prototype methods for visualising data on onboard LED flashers, in Processing and in Minecraft using a modified version of Martin O'Hanlon's [mcpi API](https://github.com/martinohanlon/mcpi) and the [FACT](http://fact.co.uk) [Minecraft CloudMaker Server](http://mc.fact.co.uk:8123/)
 
 ###Background
 
-Its part of [The Minecraft Of Things](http://minecraftofthings.tumblr.com) which sprang from research with FACT, Mark Wright, Adrian McEwen and Paul Harter funded by AHRC for the [CloudMaker](http://www.fact.co.uk/projects/cloudmaker-making-minecraft-real.aspx) project
+It's part of [The Minecraft Of Things](http://minecraftofthings.tumblr.com) which sprang from research with FACT, Mark Wright, Adrian McEwen and Paul Harter funded by AHRC for the [CloudMaker](http://www.fact.co.uk/projects/cloudmaker-making-minecraft-real.aspx) project
 
 ###Workshops
 
@@ -21,4 +21,4 @@ Liverpool Maritime Museum
 
 You can see images from Sheffield [here](https://www.flickr.com/photos/ajsteggell/sets/72157653152049145)
 
-**Note** These files are in progress, particularly the .pdf instructions that need checking and revising
+**Note** These files are in progress, particularly the .pdf instructions that need checking and revising please see [issues](https://github.com/cheapjack/ShrimpCraft/issues)
