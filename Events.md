@@ -17,14 +17,14 @@ Emerging from the research and work of Currently Shrimpcraft is a way of engagin
 
 #### Researchers and Supporters
 
-Elizabeth Weihe		Artist/Sailor
-Magnus			Engineer
-Ross Dalziel		Artist
-Amanda Steggel		Artist
-Adrian McEwen		Computer Scientist
-Glenn Boulter		Artist and Producer
-John Kenneth Hall	Artist
-Andrew Deakin		Artist and Producer
+ * Elizabeth Weihe		Artist/Sailor
+ * Magnus			Engineer
+ * Ross Dalziel		Artist
+ * Amanda Steggel		Artist
+ * Adrian McEwen		Computer Scientist
+ * Glenn Boulter		Artist and Producer
+ * John Kenneth Hall	Artist
+ * Andrew Deakin		Artist and Producer
 
 
 ###Walney Island
@@ -63,8 +63,8 @@ Adrian McEwen and Ross Dalziel ran the shrimpcraft construction workshops buildi
 
 This project continued into exploring marine communication with a local Beavers group in Garston where members earned their 'Communication Badge' through learning Morse code and sending it over a very simple Arduino based radio FM transmitter. You can see the documentation of this [here](https://github.com/cheapjack/cubsradio)
 
-
 [Image Album Link](https://goo.gl/photos/PECYygBu8CfeL7up8)
+
 
 ### [Do-It-Anyway festival](http://opensourcingfestivals.eu/events/do-it-anyway-festival-sheffield-uk) 
 
