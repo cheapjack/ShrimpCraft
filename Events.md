@@ -1,5 +1,7 @@
 ## ShrimpCraft Workshops
 
+![shrimpsoap](https://cloud.githubusercontent.com/assets/128456/9481085/428be22a-4b7f-11e5-85d6-6936223a810c.jpg)
+
 Emerging from the research and work of Currently Shrimpcraft is a way of engaging with the public
 
 **ShrimpCraft** is about using simple means and technology to explore the public's relationship to the sea. It's also about getting young people involved in computer science, technology ,basic elelectronics, gaming cultures like Minecraft and the natural world and realisng that all of these worlds can come together and that much of our contemporary technology in many ways has develped alongside our ability to live on and from the sea and the maritime world.
@@ -27,6 +29,8 @@ Andrew Deakin		Artist and Producer
 
 ###Walney Island
 
+![shrimplaunch](https://cloud.githubusercontent.com/assets/128456/9481007/a8ace532-4b7e-11e5-9779-46035b3d56cd.jpg)
+
 [Octopus Collective](http://www.octopuscollective.org/) hosted a beachcombing, sound walk and ddata collection week of work with Walney Primary School helping 
 
 The children at Walney Primary School have a strong relationship to the sea and Walney Channel and see the importance of maritime engineering culture every day. Their town is also dominated economically by the presence of BAE Systems.
@@ -39,6 +43,8 @@ They had great enthusiasm for building their arduino sensor boards and took owne
 
 
 ###Liverpool Maritime Museum
+
+![shrimpdockwatch](https://cloud.githubusercontent.com/assets/128456/9481003/9e9ed082-4b7e-11e5-9ecd-999659371037.jpg)
 
 Supported by National Museums Liverpool and Currently
 
@@ -61,6 +67,8 @@ This project continued into exploring marine communication with a local Beavers 
 [Image Album Link](https://goo.gl/photos/PECYygBu8CfeL7up8)
 
 ### [Do-It-Anyway festival](http://opensourcingfestivals.eu/events/do-it-anyway-festival-sheffield-uk) 
+
+![shrimpityourself](https://cloud.githubusercontent.com/assets/128456/9481053/0fba58ea-4b7f-11e5-9dd3-4bae863adca6.jpg)
 
 [Access Space](http://access-space.org/)
 We continued the ShrimpCraft events with Adrian McEwen, Amanda Steggel and Ross Dalziel for this festival of open source culture at Access Space a former collaborator with SoundNetwork and although effectively 'land-locked' nevertheless connected to a water bourne culture through the canal system that traverses the north of england beyond the Leeds Liverpool canal.
