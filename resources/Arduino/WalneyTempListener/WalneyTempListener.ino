@@ -47,33 +47,40 @@ void loop()                     // run over and over again
   voltage /= 1024.0; 
 
   // print out the voltage
-  Serial.print(voltage); 
-  Serial.println(" volts");
+  Serial.print(reading); 
+  Serial.println(" analog reading");
+
+
+  // print out the voltage
+//  Serial.print(voltage); 
+ // Serial.println(" volts");
 
   // now print out the temperature
   float temperatureC = (voltage - 0.5) * 100 ;  //converting from 10 mv per degree wit 500 mV offset
   //to degrees ((voltage - 500mV) times 100)
-  Serial.print(temperatureC); 
-  Serial.println(" degrees C");
+ // Serial.print(temperatureC); 
+ // Serial.println(" degrees C");
 
   // now convert to Fahrenheit
   float temperatureF = (temperatureC * 9.0 / 5.0) + 32.0;
-  Serial.print(temperatureF); 
-  Serial.println(" degrees F");
+  //Serial.print(temperatureF); 
+  //Serial.println(" degrees F");
 
 
-  int x = temperatureC;
+//  int x = temperatureC;
+  int x = voltage;
+
   int bound = 5;
   int bound2 = 6;
   int bound3 = 7;
-  
-   if (x < -20 ){
-   NumberofLEDS(1); 
- } else if (x < -30){
+
+ if (x < 1){
+   NumberofLEDS(3); 
+ } else if (x < 3){
    NumberofLEDS(2);
    
- } else if (x > -20){
-   NumberofLEDS(3); 
+ } else if (x >= 3){
+   NumberofLEDS(1); 
    
  } else {
       digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
@@ -82,18 +89,18 @@ void loop()                     // run over and over again
     delay(250); 
     digitalWrite(led2, LOW);
  }
-
-  
+}
 /*
+
   switch (x){
-  case :17
-    NumberofLEDS(1); 
+  case 0:
+    NumberofLEDS(3); 
     break;
-  case 16: 
+  case 2: 
     NumberofLEDS(2);
     break;
-  case 5:
-    NumberofLEDS(3);
+  case 3:
+    NumberofLEDS(1);
     break;
   default:  
     digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
@@ -102,11 +109,12 @@ void loop()                     // run over and over again
     delay(250); 
     digitalWrite(led2, LOW);    // turn the LED off by making the voltage LOW
   }
-*/
+
 
 
 
   delay(500);                                     //waiting a second
 }
+*/
 
 
