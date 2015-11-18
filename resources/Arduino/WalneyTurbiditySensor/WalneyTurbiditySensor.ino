@@ -9,7 +9,7 @@ int turbidPin = A1;
 int led = 13;
 int led2 = 12;
 int led3 = 11;
-int turbidLED = 10;
+int turbidLED = 9;
 
 
 
@@ -47,12 +47,12 @@ digitalWrite(turbidLED, HIGH);
  int x = analogRead(turbidPin);
  Serial.println(x);
  
- if (x < 655){
+ if (x < 200){
    NumberofLEDS(3); 
- } else if (x < 900){
+ } else if (x < 600){
    NumberofLEDS(2);
    
- } else if (x > 900){
+ } else if (x > 600){
    NumberofLEDS(1); 
    
  } else {
