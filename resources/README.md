@@ -31,7 +31,7 @@ Upload the Arduino sketch `WalneyTurbiditySensor.ino` to your assembled Turbidit
 
 To visualise these analog LDR/turbidity readings in minecraft you run the python module below which reads serial input from the CP2102 USB serial connector. 
 
-Running `python ShrimpCraft/resources/minecraft/HelloTurbidityReady.py` with `Python 2.7.10` and `pyfirmata` installed will use the mcpi protocol to send messages to the FACT CloudMaker minecraft server providing you have everything correctly installed. You can change the settings in `server.py` to send messages to other minecraft servers either on the raspberry pi or running the Raspberry Juice plugin. 
+Running `python ShrimpCraft/resources/minecraft/HelloTurbidityReady.py` with `Python 2.7.10` will use the mcpi protocol to send messages to the FACT CloudMaker minecraft server providing you have everything correctly installed. You can change the settings in `server.py` to send messages to other minecraft servers either on the raspberry pi or running the Raspberry Juice plugin. 
 
 
 ###CompleteTemperatureSensorBoard
