@@ -1,4 +1,8 @@
 #!/usr/bin/python
+# Upload Standard Firmata to the Arduino Board from the Examples Menu
+
+
+
 #Install the modules we need
 from pyfirmata import Arduino, util, INPUT
 from mcpi import minecraft
@@ -32,17 +36,17 @@ shrimp = Arduino(PORT)
 
 # If we get here things should be ready to go
 print("Everything is connected up.")
-    
-it = util.Iterator(shrimp)
-it.start()
-print "Iterator started"
+# We probably dont need the iterator thread for a digital pin   
+#it = util.Iterator(shrimp)
+#it.start()
+#print "Iterator started"
 
 # Start reporting for defined pins
-shrimp.analog[0].enable_reporting()
+#shrimp.analog[0].enable_reporting()
 #shrimp.analog[1].enable_reporting()
-#note we've swapped to ana1
-
-ana0 = shrimp.analog[0]
+# Get pin8 where the sensor read inputs
+pin8 = shrimp.get_pin('d:8:i')
+#ana0 = shrimp.analog[0]
 #ana1 = shrimp.analog[1]
 #ana0 = shrimp.analog[0]
 #ana1 = shrimp.analog[1]
@@ -72,21 +76,24 @@ lastVal = 1
 
 def barchart1(triggerled1, triggerled2, triggerled3, startx, starty, startz, blocktype, maxchartwidth, maxchartheight):
 	global lastVal
-	ana0reading = ana0.read()
+	tempreading = pin8.read()
 	#readnow = int(ana0reading * 10)
-	readnow = ana0reading * 10
-	#print ana0reading
+	readnow = tempreading
+	print tempreading
 	#print readnow
-	read_range = translate(readnow, 6, 10, 0, 20)
-	reading = int(read_range)
+	# You may need to tweak the upper and lower limits of the translate function
+	# since we switched to digital
+	#read_range = translate(readnow, 22.0, 26.0, 0, 20)
+	reading = readnow
+	#reading = int(read_range)
 	#print reading
 # light LEDS based on reading
-	if ana0reading > triggerled1:
+	if tempreading > triggerled1:
 		led1.write(HIGH)
-	elif ana0reading > triggerled2:
+	elif tempreading > triggerled2:
 		led1.write(HIGH)
 		led2.write(HIGH)
-	elif ana0reading > triggerled3:
+	elif tempreading > triggerled3:
 		led1.write(HIGH)
 		led2.write(HIGH)
 		led3.wrie(HIGH)
@@ -133,7 +140,7 @@ try:
 		turbidled1.write(HIGH)
 		sleep(0.25)
 		# change this for size, location etc of chart
-		barchart1(2, 4, 6, -455, 89, -1379, 89,  2, 100)
+		barchart1(22, 24, 26, -455, 89, -1379, 89,  2, 100)
 except KeyboardInterrupt:
 	print "stopped"
 	#NotListening = True

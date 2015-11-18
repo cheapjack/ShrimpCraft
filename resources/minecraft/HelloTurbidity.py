@@ -1,4 +1,7 @@
 #!/usr/bin/python
+# Upload Standard Firmata to the Arduino Board from the Examples Menu
+
+
 #Install the modules we need
 from pyfirmata import Arduino, util, INPUT
 from mcpi import minecraft

@@ -58,7 +58,7 @@ void loop(void) {
    NumberofLEDS(3); 
    
  } else {
-      digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
+      digitalWrite(led1, LOW);    // turn the LED off by making the voltage LOW
     delay(100);    // wait for a second
     digitalWrite(led2, LOW);    // turn the LED off by making the voltage LOW
     delay(100); 
