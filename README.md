@@ -12,6 +12,10 @@ It uses the *brilliant* **Shrimped Arduino kits** from [Shrimping.it](http://shr
 
 It's part of [The Minecraft Of Things](http://minecraftofthings.tumblr.com) which sprang from research with FACT, Mark Wright, Adrian McEwen and Paul Harter funded by AHRC for the [CloudMaker](http://www.fact.co.uk/projects/cloudmaker-making-minecraft-real.aspx) project
 
+###Useage
+
+For more details about using the resources go [here](https://github.com/cheapjack/ShrimpCraft/blob/master/resources/README.md)
+
 ###Workshops
 
 ####[Workshop Details](https://github.com/cheapjack/ShrimpCraft/blob/master/Events.md)

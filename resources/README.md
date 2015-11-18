@@ -30,8 +30,6 @@ Running `python ShrimpCraft/resources/minecraft/HelloTurbidity.py` with `Python 
 
 Uses a Dallas DS18S20B Waterproof `OneWire` sensor to flash LEDs to indicate changes in temperature. The code can be changed to trigger LED events at particular readings. This is a relatively accurate reading of air and water temperature. Ideally a 4.7KOhm pull-up Resistor should be placed between the sensor pin and 5V. There are some occasional noisy readings but this can be fixed on re-setting the shrimp.
 
-The Code requires
-
 
  * **1 LED flash** - Water with relatively low temperature: **'cold'** 
  * **2 LED flash** - Water with relatively mid temperature: **'room temperature'** 
@@ -41,7 +39,7 @@ The Code requires
 
 Currently to visualise these digital readings in minecraft HelloTemperature.py reads the temperature from Serial with the CP2102 USB serial connector 
 
-Running `python ShrimpCraft/resources/minecraft/HelloTurbidity.py` with `Python 2.7.10` and `pyfirmata` installed will use the mcpi protocol to send messages to the FACT CloudMaker minecraft server providing you have everything correctly installed. You can change the settings in `server.py` to send messages to other minecraft servers either on the raspberry pi or running the Raspberry Juice plugin. 
+Running `python ShrimpCraft/resources/minecraft/HelloTurbidity.py` with `Python 2.7.10` installed will use the mcpi protocol to send messages to the FACT CloudMaker minecraft server providing you have everything correctly installed. You can change the settings in `server.py` to send messages to other minecraft servers either on the raspberry pi or running the Raspberry Juice plugin. 
 
 
 ###Requirements
