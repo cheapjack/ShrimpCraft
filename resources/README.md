@@ -31,8 +31,9 @@ Upload the Arduino sketch `WalneyTurbiditySensor.ino` to your assembled Turbidit
 
 To visualise these analog LDR/turbidity readings in minecraft you run the python module below which reads serial input from the CP2102 USB serial connector. 
 
-Running `python ShrimpCraft/resources/minecraft/HelloTurbidityReady.py` with `Python 2.7.10` will use the mcpi protocol to send messages to the FACT CloudMaker minecraft server providing you have everything correctly installed. You can change the settings in `server.py` to send messages to other minecraft servers either on the raspberry pi or running the Raspberry Juice plugin. 
+Running `python ShrimpCraft/resources/minecraft/HelloTurbidityReady.py` with `Python 2.7.10` will use the mcpi protocol to send messages to the FACT CloudMaker minecraft server providing you have everything correctly installed. You can change the settings in `server.py` to send messages to other minecraft servers either on the raspberry pi or CraftBukkit/CanaryMod minecraft servers running the Raspberry Juice plugin. 
 
+You can also change where and what minecraft draws in response to the serial inputs in each `.py` module. Explore more at [Stuff About Code](http://www.stuffaboutcode.com/p/minecraft.html)
 
 ###CompleteTemperatureSensorBoard
 
@@ -48,17 +49,18 @@ There's a great [tutorial at Bldr](http://bildr.org/2011/07/ds18b20-arduino/) to
 
 To visualise these digital readings in minecraft HelloTemperatureReady.py reads the temperature from Serial with the CP2102 USB serial connector 
 
-Running `python ShrimpCraft/resources/minecraft/HelloTemperatureReady.py` with `Python 2.7.10` installed will use the mcpi protocol to send messages to the FACT CloudMaker minecraft server providing you have everything correctly installed. You can change the settings in `server.py` to send messages to other minecraft servers either on the raspberry pi or running the Raspberry Juice plugin. 
+Running `python ShrimpCraft/resources/minecraft/HelloTemperatureReady.py` with `Python 2.7.10` installed will use the mcpi protocol to send messages to the FACT CloudMaker minecraft server providing you have everything correctly installed. You can change the settings in `server.py` to send messages to other minecraft servers either on the raspberry pi or running CraftBukkit/CanaryMod minecraft servers running the Raspberry Juice plugin. 
 
+You can also change where and what minecraft draws in response to the serial inputs in each `.py` module. Explore more at [Stuff About Code](http://www.stuffaboutcode.com/p/minecraft.html)
 
 ###Requirements
 
  * Protected Shrimp with additional resistors and parts
- * Python 2.7.10
- * pyfirmata installed with `pip install pyfirmata`
- * A raspberry Pi running a MinecraftPi server or a Minecraft server running the RaspberryJuice plugin to receive python mcpi commands
+ * `Python 2.7.10`
+ * Optional `pyfirmata` installed with `pip install pyfirmata`
+ * A raspberry Pi running a MinecraftPi server or a Minecraft server running the `RaspberryJuice` plugin to receive python `mcpi` commands
  * Dallas DS18S20B Waterproof sensor
- * Arduino OneWire Library included in this Repo from [Paul Stoffregen](http://www.pjrc.com/teensy/td_libs_OneWire.html)
+ * Arduino `OneWire` Library included in this Repo from [Paul Stoffregen](http://www.pjrc.com/teensy/td_libs_OneWire.html) also available from [here](http://playground.arduino.cc/Learning/OneWire)
  * [CP2102 USB drivers](http://shrimping.it/drivers/cp2102/) 
 
 
