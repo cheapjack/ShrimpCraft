@@ -12,11 +12,11 @@ It uses the *brilliant* **Shrimped Arduino kits** from [Shrimping.it](http://shr
 
 It's part of [The Minecraft Of Things](http://minecraftofthings.tumblr.com) which sprang from research with FACT, Mark Wright, Adrian McEwen and Paul Harter funded by AHRC for the [CloudMaker](http://www.fact.co.uk/projects/cloudmaker-making-minecraft-real.aspx) project
 
-###Open Source?
+###Is This Open Source?
 
-The project is essentially about data, software and hardware literacy in the context of doing and exploring our relationship to Water.
+The project is essentially about data, software and hardware literacy in the context of doing and exploring our relationship to Water. It's released under a highly permissive MIT License but not necessarily recursively; some elements are released under certain different terms and you will need follow back to source to see this.
 
-This is in the spirit of open source alhtough elements used are not strictly open source. ; 
+This project and the wider CloudMaker project follows the `spirit` of open source although some elements used may not **strictly** be `open-source`: 
 
  * Minecraft is not open source but has a large modding culture and are famously vague about IP. You have to buy the game basically to play most servers. This project however is based on the use of [Minecraft Pi Edition](http://pi.minecraft.net/?page_id=14) which is free to download and use and initiated by Mojang but maintained by the Minecraft and [Raspberry Pi](http://elinux.org/RPi_Hub) community
  * Processing is used under a GPL license
