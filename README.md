@@ -37,3 +37,12 @@ It has been run as pop up workshops for families and children at
  * Liverpool Maritime Museum
  * [Do-It-Anyway festival](http://opensourcingfestivals.eu/events/do-it-anyway-festival-sheffield-uk) at [Access Space](http://access-space.org/) in partnership with [Piksel](http://piksel.no/) [Sheffield Images](https://www.flickr.com/photos/ajsteggell/sets/72157653152049145)
  * [Piksel15 Get A Life! City-Water Workshop](http://15.piksel.no/city-water/) with Gemma May Latham and Elizabeth Weihe
+
+###Health & Saftey
+
+Any launching of software or hardware on the water must be done under adult supervision with appropriate considerations to health and safety. None of the authors or copyright holders of this Repo nor its components accept any liability in any event arising from the use of this software or hardware.
+
+Please look at the LICENSE.txt file. By using any of the repo contents you agree to it's terms
+
+
+
