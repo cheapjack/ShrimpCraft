@@ -78,3 +78,23 @@ Access Space's commitment to DIY technology, self education, resilience meant th
 
 [Workshop Images](https://www.flickr.com/photos/ajsteggell/sets/72157653152049145)
 
+### [Piksel15 Festival](http://15.piksel.no/city-water/) City Water Event
+
+![2](https://cloud.githubusercontent.com/assets/128456/12683790/2d8e29a0-c6b3-11e5-8449-f41d52e138a4.JPG)
+
+[Gemma Latham](http://www.gemmamaylatham.co.uk)(UK) and Elizabeth Weihe (Norway) used ShrimpCraft resources to explore city water ways in Bergen. They built Shrimps launched them and then visualised in Minecraft using `mcpi` with Gemma. 
+
+<img src="https://cloud.githubusercontent.com/assets/128456/12683791/2d91306e-c6b3-11e5-994d-0b2d431652f3.JPG" width="400">
+<img src="https://cloud.githubusercontent.com/assets/128456/12683792/2d92802c-c6b3-11e5-97db-abcd8165066d.JPG" width="400">
+<img src="https://cloud.githubusercontent.com/assets/128456/12683789/2d8c088c-c6b3-11e5-969d-bf0ef736ab2a.JPG" width="400">
+
+#### Delivering Artists Biographies
+
+[Gemma Latham](http://www.gemmamaylatham.co.uk)
+
+As a participatory artist, I utilize accessible tools, digital and physical, to engage audiences, from Minecraft and code to simple repetitive processes. Long fascinated by the immersive qualities of making processes, I seek to capture experiences of flow and seek out methods that enable participants’ experiences to be collected and interpreted. Most recently I have been exploring biometric feedback mechanisms as a way of producing usable live data for artistic interpretation.
+ 
+Elizabeth Weihe
+
+In my art practice I work with exploring how our surroundings are a part and a result of processes and structures. From many years of living and traveling on my sailboat my more recent work is drawn from observing the changing coastlines and peoples relationships to the sea. I am interested in the volatile memory of the sea and the coast, investigating and sharing the knowledge and memory it carries.
+
