@@ -22,13 +22,19 @@ I've recently been studying for my Amateur Radio Foundation License with the [So
  * Propogation Enthusiasts
  * [NVIS Near Vertical Incidence Skyway](https://en.wikipedia.org/wiki/Near_vertical_incidence_skywave)
 
-Technology in nature is always to do with resilience in a way; it comes from the basic idea that a tool helps humans interact and shape a hositle world; so it's inevitable that network culture should start to inhabit more and more extreme 'natural' habitats. We know what we think of when we say nature; we don't think 'city' but its worth thinking that cities ARE nature they're just nature with a high density of human tools: but let's not get lost in semantics.
+Technology in nature is always to do with resilience in a way; it comes from the basic idea that a tool helps humans interact and shape a hositle world; so it's inevitable that network culture should start to inhabit more and more extreme 'natural' habitats as part of it's narrative of a kind of 'militarisation' of human culture. Of course there are politics of power at play in this process of colonisation but that's maybe another discussion. 
+
+I suppose we know what we think of when we say nature; we don't think 'city' but its worth thinking that cities ARE nature they're just nature with a high density of human tools..
 
 There is now a CISCO Internet router in Space which I found out while researching [Delay Tolerant Networks](http://personal.ee.surrey.ac.uk/Personal/L.Wood/dtn/bundle.html) so I guess the drive for commercially inhabiting nature ever further is part of this.
 
-Hopefully the complete colonisation of the network will include more open source approaches like [Lora Alliance](https://www.lora-alliance.org/)
+Hopefully the complete colonisation of the network will include more open source approaches like [LoRa Alliance](https://www.lora-alliance.org/)
 
-So I think its interesting how the internet of things is proliferating into society and culture: but it's been pretty much focussed on a city model but its already being used by everyone from the Environment Agency to Freshwater and Oceanography scientists and I think it's exciting for artists to get their hands on tools and data like that  
+So I think its interesting how the internet of things is proliferating into society and culture: but it's been pretty much focussed on a city model but its already being used by everyone from the Environment Agency to Freshwater and Oceanography scientists and I think it's exciting for artists to get their hands on tools and data like that to perhaps critically engage with this area or looking at what we do with this kind of information.
+
+In many ways alot of my work is about looking for a form of 'data literacy' in this field but perhaps more importantly theres a need to work out what to actually **do** with all this data: how to 'edit' data in the way someone like Chris Watson does with sound.
+
+How do we listen to data? In the way we listen to sound? I think there is something in developing ACTS and SITUATIONS FOR LISTENING TO DATA
 
 
 Ive done a few projects that are related to nature and landscape 
@@ -36,11 +42,11 @@ Ive done a few projects that are related to nature and landscape
 
 Currently came from a group of artists in Norway Amanda Steggel and Elizabeth Weihe who lived in and around sea-faring coastal communities and lived periodically on boats.
 
-After several hack weekends with groups of artists we eventually developed ShrimpCraft a simple pop up workshop to use breadboard arduino's to measure water temperature and quality and visualise them in minecraft and processing
+After several hack weekends with groups of artists and [journey from Oslo to Scotland](https://www.google.com/maps/d/viewer?hl=en&mid=zVYt5qa3Qe1o.kLCJ0-3vIjYA) we eventually developed **ShrimpCraft** a simple pop up workshop to use breadboard arduino's to measure water temperature and quality and visualise them in minecraft and processing
 
 ShrimpCraft is built with [shrimping.it](http://start.shrimping.it/)
 
-While designing public workshop tools for artists as they travelled by sea, canal and loch I also became generally interested in the idea of making tools for artistic practice as part of my work. Tools for myself and then making them useful to others. This may be the direction I'd like Currently to go 
+While designing public workshop tools for artists as they travelled by sea, canal and loch I also became generally interested in the idea of making tools for artistic practice as part of my work. Tools for myself and then making them useful to others. This may be the direction I'd like Currently to go. 
 
 It became pretty clear that making a tool for others is way harder than making one just for yourself and it really became clear that you cant make tools on your own and that you also need **other tools**
 
@@ -65,10 +71,13 @@ No WiFi no technology National Trust Property on the banks of Lake Windermere
 
 ![msbacmanmaze](https://cloud.githubusercontent.com/assets/128456/14002580/ce872e22-f144-11e5-9471-77ce48cd8198.png)
 
+#### A methodology for learning about the behaviour and communication of micro-organisms through modelling a game of pacman on a microscope slide 
+
 Show [PacMaze](http://www.thingiverse.com/thing:24604)
 
-A methodology for learning about the behaviour and communication of micro-organisms through modelling a game of pacman on a microscope slide 
 
+[Zero IQ robots](https://hackaday.io/project/9848-iq-zero-evolving-unprogrammed-robots) to model [quorum sensing](https://en.wikipedia.org/wiki/Quorum_sensing) a form of [microbial communication](http://jb.asm.org/content/187/16/5507.full).
 
+[Lora Alliance](https://www.lora-alliance.org/)
 
 
