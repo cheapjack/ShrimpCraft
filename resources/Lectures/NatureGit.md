@@ -15,7 +15,7 @@ I'm generally interested in how technical communities form in and around technol
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/NVIS_Radiation_Pattern.svg/1280px-NVIS_Radiation_Pattern.svg.png" width="400">
 
 Some technology in nature that inspires social technical collectives seem to be responses to the hostility of Nature:  
-I've recently been studying for my Amateur Radio Foundation License with the [Southport & District Amateur Radio Club](http://www.sadarc.org.uk/) and found quite a few interesting sub-genres of enthusiasts 
+I've recently been studying for my Amateur Radio Foundation License with the [Southport & District Amateur Radio Club](http://www.sadarc.org.uk/) and found quite a few interesting sub-genres of radio enthusiasts.  
 
  * Amateur Radio Morse Coding Hill Walkers
  * [RAYNET](http://www.raynet-uk.net/) amateur radio resilience networks
@@ -26,9 +26,10 @@ Technology in nature is always to do with resilience in a way; it comes from the
 
 There is now a CISCO Internet router in Space which I found out while researching [Delay Tolerant Networks](http://personal.ee.surrey.ac.uk/Personal/L.Wood/dtn/bundle.html) so I guess the drive for commercially inhabiting nature ever further is part of this.
 
+Hopefully the complete colonisation of the network will include more open source approaches like [Lora Alliance](https://www.lora-alliance.org/)
+
 So I think its interesting how the internet of things is proliferating into society and culture: but it's been pretty much focussed on a city model but its already being used by everyone from the Environment Agency to Freshwater and Oceanography scientists and I think it's exciting for artists to get their hands on tools and data like that  
 
-[Lora Alliance](https://www.lora-alliance.org/)
 
 Ive done a few projects that are related to nature and landscape 
 [Currently](http://currently.no) 
