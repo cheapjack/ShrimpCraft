@@ -1,12 +1,3 @@
-
-## ShrimpCraft Talks
-
-Folder of notes for talks about ShrimpCraft
-
-### Talks
-
-[Talk 1]()
-
 ##"Nature on github: Technical communities in the landscape"
 
 Lecture notes for Nature and Technology Symposium at [Metal](http://www.metalculture.com/about-us/liverpool/)
