@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 #Install the modules we need
-#from pyfirmata import Arduino, util, INPUT
+#Serial, mcpi, time, Arduino, server
 from mcpi import minecraft
 from mcpi import minecraftstuff
 from time import sleep
@@ -25,6 +25,7 @@ print("Everything is connected up.")
 sleep(0.5)
 print("Reading from Serial...")
 sleep(0.5)
+# Using the FACT minecraft server
 # Use the command /getpos or F3 in Minecraft client to find out where you are then use those
 # x, y, z coordinates to build things
 # translate mc coords for mcpi ones
@@ -34,7 +35,8 @@ mcx = 177
 mcy = 64
 # - this from z
 mcz = 135
-# Connect to the server we use the imported server.py to make it work with CloudMaker
+
+# Connect to the server we use the imported server.py to make it work with the FACT CloudMaker server
 mc = minecraft.Minecraft.create(server.address)
 #Post a message to the minecraft chat window 
 mc.postToChat("Ready to read Temperature")
