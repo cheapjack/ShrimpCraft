@@ -14,6 +14,8 @@ We also highly recommend following [Shrimping.it](http://start.shrimping.it) ins
 
 Once you've made a shrimp you'll never want to buy an arduino board again. We are developing a breadboard Internet of Things(IoT) kit using the popular ESP8266 ESP12 WiFi Module with [Adrian McEwen](http://www.mcqn.com/) which is currently using a Sparkfun ESP8266 Thing development breakout board while we work out the best components hopefully with some help from the Shrimping.it team.
 
-Thanks Cefn!
+It's called the [cocklecraft-of-things](https://github.com/mcqn/cocklecraft-of-things) after Merseyside cockles instead of Morecambe shrimps.
+
+Thanks Cefn and all the Shrimping.it team and of course `mcqn`
 
 
