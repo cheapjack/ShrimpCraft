@@ -4,9 +4,16 @@
 
 This could not have happened without the committment to good documentation and strategic thinking about learning prototyping and physical computing of the [Shrimping.it](http://start.shrimping.it). Such is the impact of their work that the word 'Shrimping' has become synonymous with breadboarding arduino projects for many in the maker community.
 
-Follow MoT1-MoT3 and then CompleteTemperatureSensor and/or CompleteTurbiditySensor in either `.svg` or `.pdf` format. There also cut files for the 3mm Plastazote foam that we used to support and blackout the turbidity samples.
+Follow the `MoT1`-`MoT3` files in `.svg` or `.pdf` format and then `CompleteTemperatureSensor` and/or `CompleteTurbiditySensor` in either `.svg` or `.pdf` format. There also cut files for the 3mm Plastazote foam that we used to support and blackout the turbidity samples.
 
 There's also a shrimp schematic that shows you what all the arduino pins do.
 
-We also highly recommend following [Shrimping.it](http://start.shrimping.it) instructions for getting started with the [Blink Sketch](http://start.shrimping.it/project/blink/build.html); they have the most up to date instructions and provide ready bagged kits that we use for the ShrimpCraft project. Please donate to their project by using their kit and spreading the word about learning by 'Shrimping'.
+We also highly recommend following [Shrimping.it](http://start.shrimping.it) instructions for getting started with the [Blink Sketch](http://start.shrimping.it/project/blink/build.html) and then you can continue to build a protected shrimp that stops you killing your `ATMEGA328` chip or having noisy analog ins.
+
+[Shrimping.it](http://start.shrimping.it) have the most up to date instructions and provide the ready bagged kits that we use and adapt for the ShrimpCraft project. Please donate to their project by using their kit and spreading the word about learning by 'Shrimping'.
+
+Once you've made a shrimp you'll never want to buy an arduino board again. We are developing a breadboard Internet of Things(IoT) kit using the popular ESP8266 ESP12 WiFi Module with [Adrian McEwen](http://www.mcqn.com/) which is currently using a Sparkfun ESP8266 Thing development breakout board while we work out the best components hopefully with some help from the Shrimping.it team.
+
+Thanks Cefn!
+
 
