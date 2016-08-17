@@ -1,9 +1,9 @@
 
-## ShrimpCraft Talks
+## ShrimpCraft Event Notes
 
 <img src="http://www.currently.no/wp-content/uploads/2015/06/group_01-150x150.jpg">
 
-Folder of notes for talks about ShrimpCraft
+Folder of notes and details for events relating to ShrimpCraft
 
 ### Talks
 
