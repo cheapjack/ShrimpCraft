@@ -33,11 +33,12 @@ int NumberofLEDS(int num) {
   for (int thisPin = 11; thisPin <= num + 10; thisPin++) {
     digitalWrite(thisPin, HIGH);
     delay(250);               // wait for a second
-    digitalWrite(thisPin, LOW);    // turn the LED off by making the voltage LOW
+    digitalWrite(thisPin, LOW);    // turn the LED off 
     delay(250); 
 
   }
 }
+
 // Main Loop
 
 void loop(void) {
@@ -49,20 +50,23 @@ void loop(void) {
 // based on temperature
 
 
-  if (temperature < 22.0){
+  if (temperature < 16.0){
    NumberofLEDS(1); 
- } else if (temperature < 25.0){
+ } else if (temperature < 24.0 && temperature >= 16.0){
    NumberofLEDS(2);
    
- } else if (temperature >= 25.0){
+ } else if (temperature > 24.0 && temperature <= 28.0){
    NumberofLEDS(3); 
-   
- } else {
-      digitalWrite(led1, LOW);    // turn the LED off by making the voltage LOW
-    delay(100);    // wait for a second
-    digitalWrite(led2, LOW);    // turn the LED off by making the voltage LOW
-    delay(100); 
-    digitalWrite(led2, LOW);
+ } else if (temperature > 28.0){
+     digitalWrite(led1, HIGH);
+     delay(100);    // wait for a second
+     digitalWrite(led1, LOW);
+     digitalWrite(led2, HIGH);
+     delay(100); 
+     digitalWrite(led2, LOW);
+     digitalWrite(led3, HIGH);
+     delay(100); 
+     digitalWrite(led3, LOW);
  }
  delay(100); //just here to slow down the output so it is easier to read
 }
