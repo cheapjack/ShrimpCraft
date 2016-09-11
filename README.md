@@ -12,7 +12,15 @@ It uses the *brilliant* **Shrimped Arduino kits** from [Shrimping.it](http://shr
 
 It's part of [The Minecraft Of Things](http://minecraftofthings.tumblr.com) which sprang from research with FACT, Mark Wright, Adrian McEwen and Paul Harter funded by AHRC for the [CloudMaker](http://www.fact.co.uk/projects/cloudmaker-making-minecraft-real.aspx) project
 
-###Is This Open Source?
+### Getting Started
+
+The easiest way to make our arduino sketches work with libraries is to download or clone this repo, `unzip` if necessary and then in your **Arduino IDE** temporarily change your sketchbook location in `Menu/Arduino/preferences` to `path/to/my/download/ShrimpCraft/resources/sketchbook` which will make sure the libraries are in the right place.
+
+Now you'll see the different sketches in the IDE in the `Menu/File/Sketchbook` dropdown menu.
+
+Then just change it back to your normal location afterwards.
+
+### Is This Open Source?
 
 The project is essentially about data, software and hardware literacy in the context of doing and exploring our relationship to Water. It's released under a highly permissive MIT License but not necessarily recursively; some elements are released under certain different terms and you will need follow back to source to see this.
 
