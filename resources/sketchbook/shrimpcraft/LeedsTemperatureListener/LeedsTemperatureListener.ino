@@ -46,18 +46,23 @@ void loop(void) {
 //delay(500);
 
   if (temperature < 16.0){
-   numberOfLEDS(1); 
+   NumberofLEDSFLashing(1);
+   //numberOfLEDS(1); 
  } else if (temperature < 24.0 && temperature >= 16.0){
-   numberOfLEDS(2);
+   NumberofLEDSFLashing(2);
+   //numberOfLEDS(2);
    //delay(500);
  } else if (temperature > 24.0 && temperature <= 28.0){
-   numberOfLEDS(3); 
+   NumberofLEDSFLashing(3);
+   //numberOfLEDS(3); 
    //delay(500);
  } else if (temperature > 28.0 && temperature <= 30.0){
-   numberOfLEDS(4);
+   //NumberofLEDSFLashing(4);
+   //numberOfLEDS(4);
    //delay(500); 
  } else if (temperature > 30.0){
-   numberOfLEDS(5);
+   NumberofLEDSFLashing(5);
+   //numberOfLEDS(5);
    //delay(500);
  delay(500); //just here to slow down the output so it is easier to read
 }
@@ -153,3 +158,12 @@ void numberOfLEDS(int num) {
   }
 }
 
+void NumberofLEDSFLashing(int num) {
+  for (int thisPin = 9; thisPin <= num + 8; thisPin++) {
+    digitalWrite(thisPin, HIGH);
+    delay(250);               // wait for a second
+    digitalWrite(thisPin, LOW);    // turn the LED off by making the voltage LOW
+    delay(250); 
+
+  }
+}

@@ -52,10 +52,10 @@ void loop(void) {
 
   if (temperature < 16.0){
    NumberofLEDS(1); 
- } else if (temperature < 24.0 && temperature >= 16.0){
+ } else if (temperature < 18.0 && temperature >= 16.0){
    NumberofLEDS(2);
    
- } else if (temperature > 24.0 && temperature <= 28.0){
+ } else if (temperature > 18.0 && temperature <= 28.0){
    NumberofLEDS(3); 
  } else if (temperature > 28.0){
      digitalWrite(led1, HIGH);

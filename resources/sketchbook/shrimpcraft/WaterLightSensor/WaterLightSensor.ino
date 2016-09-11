@@ -43,15 +43,12 @@ void loop()                     // run over and over again
 
  int x = analogRead(turbidPin);
  Serial.println(x);
- 
  if (x < 200){
    NumberofLEDS(1); 
- } else if (x > 200 && <= 400){
-   NumberofLEDS(2);
-   
+ } else if (x > 200 && x <= 400){
+   NumberofLEDS(2);  
  } else if (x > 400){
    NumberofLEDS(3); 
-   
  } else {
       digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
     delay(250);    // wait for a second
