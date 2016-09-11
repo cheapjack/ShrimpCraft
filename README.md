@@ -2,17 +2,19 @@
 
 ![shrimpcraft copy](https://cloud.githubusercontent.com/assets/128456/7733192/9103e4a8-ff25-11e4-93b1-a7c8c4e9ce5c.jpg)
 
-##Prototype Kits for Shrimped Arduino sensor boards and code
+### Prototype Kits for Shrimped Arduino sensor boards and code
 
-**ShrimpCraft** is a project initialised from [Amanda Steggell](http://www.testingtesting.org/) and [Ross Dalziel's](http://cheapjack.org.uk) project, [Currently](http:/currently.no) to introduce young people to DIY water sensing with basic electronics. In this case the kits measure temperature with a **DS1820 Water Proof Temperature Sensor** and a DIY turbidity sensor
+**ShrimpCraft** is a project initialised from [Amanda Steggell](http://www.testingtesting.org/) and [Ross Dalziel's](http://cheapjack.org.uk) project, [Currently](http:/currently.no) to introduce young people to DIY water sensing with basic electronics using kits from the Morecambe based [Shrimping.it](http://start.shrimping.it) project. In this case the kits measure temperature with a **DS1820 Water Proof Temperature Sensor** and a DIY turbidity sensor
 
-It uses the *brilliant* **Shrimped Arduino kits** from [Shrimping.it](http://shrimping.it/blog/) at its core and also features prototype methods for visualising data on onboard LED flashers, in Processing and in Minecraft using a modified version of Martin O'Hanlon's [mcpi API](https://github.com/martinohanlon/mcpi) and the [FACT](http://fact.co.uk) [Minecraft CloudMaker Server](http://mc.fact.co.uk:8123/)
+It uses the *brilliant* **Shrimped Arduino kits** from [Shrimping.it](http://start.shrimping.it) at its core and also features prototype methods for visualising data on onboard LED flashers, in Processing and in Minecraft using a modified version of Martin O'Hanlon's [mcpi API](https://github.com/martinohanlon/mcpi) and the [FACT](http://fact.co.uk) [Minecraft CloudMaker Server](http://mc.fact.co.uk:8123/)
 
-###Background
+### Background
 
 It's part of [The Minecraft Of Things](http://minecraftofthings.tumblr.com) which sprang from research with FACT, Mark Wright, Adrian McEwen and Paul Harter funded by AHRC for the [CloudMaker](http://www.fact.co.uk/projects/cloudmaker-making-minecraft-real.aspx) project
 
 ### Getting Started
+
+First off buy your kits or source and assemble your own at [Shrimping.it](http://start.shrimping.it). You can source **DS1820 Water Proof Temperature Sensors** and LDR's from pretty much any where on the internet.
 
 The easiest way to make our arduino sketches work with libraries is to download or clone this repo, `unzip` if necessary and then in your **Arduino IDE** temporarily change your sketchbook location in `Menu/Arduino/preferences` to `path/to/my/download/ShrimpCraft/resources/sketchbook` which will make sure the libraries are in the right place.
 
