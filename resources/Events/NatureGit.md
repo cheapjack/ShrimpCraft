@@ -78,6 +78,8 @@ We imagined making hacks of classic arcade games using different organisms behav
 But in terms of engineering and understanding, often games like pong and football manager are used as exercises in software engineering: perhaps we want to use them as exercises in wet-ware engineering
 
 Show [PacMaze](http://www.thingiverse.com/thing:24604)
+[OpenSCAD model of prototype maze generator](https://github.com/cheapjack/ShrimpCraft/blob/master/resources/Events/PetriDishPiFieldKit.scad)
+
 
 I'm also interested in how game engineering often uses advanced concepts in the sciences like [Game Of Life type algorithms](http://golly.sourceforge.net/) and [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
 
