@@ -33,13 +33,13 @@ This project and the wider CloudMaker project follows the `spirit` of open sourc
  * `mcpi` is an API for Minecraft Pi Edition, released under an MIT License and is maintained by Martin O'Hanlon's [Stuff About Code](http://www.stuffaboutcode.com/p/minecraft.html) project.
  * [Shrimping.it](http://shrimping.it/blog/) is open source even if some components may not be and also clearly about pedagogy and technological literacy which is reflected in their views on [Breadboards](http://shrimping.it/blog/why-no-pcbs/) 
 
-###Useage
+### Useage
 
 For more detail about using the resources go [here](https://github.com/cheapjack/ShrimpCraft/blob/master/resources/README.md)
 
-###Workshops
+### Workshops
 
-####[Workshop Details](https://github.com/cheapjack/ShrimpCraft/blob/master/Events.md)
+#### [Workshop Details](https://github.com/cheapjack/ShrimpCraft/blob/master/Events.md)
 
 It has been run as pop up workshops for families and children at
 
@@ -48,7 +48,7 @@ It has been run as pop up workshops for families and children at
  * [Do-It-Anyway festival](http://opensourcingfestivals.eu/events/do-it-anyway-festival-sheffield-uk) at [Access Space](http://access-space.org/) in partnership with [Piksel](http://piksel.no/) [Sheffield Images](https://www.flickr.com/photos/ajsteggell/sets/72157653152049145)
  * [Piksel15 Get A Life! City-Water Workshop](http://15.piksel.no/city-water/) with Gemma May Latham and Elizabeth Weihe
 
-###Health & Saftey
+### Health & Saftey
 
 Any launching of software or hardware on the water must be done under adult supervision with appropriate considerations to health and safety. None of the authors or copyright holders of this Repo nor its components accept any liability in any event arising from the use of this software or hardware.
 
