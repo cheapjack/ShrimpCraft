@@ -6,7 +6,7 @@
 
 **ShrimpCraft** is a project initialised from [Amanda Steggell](http://www.testingtesting.org/) and [Ross Dalziel's](http://cheapjack.org.uk) project, [Currently](http:/currently.no) to introduce young people to DIY water sensing with basic electronics using kits from the Morecambe based [Shrimping.it](http://start.shrimping.it) project. In this case the kits measure temperature with a **DS1820 Water Proof Temperature Sensor** and a DIY turbidity sensor
 
-It uses the *brilliant* **Shrimped Arduino kits** from [Shrimping.it](http://start.shrimping.it) at its core and also features prototype methods for visualising data on onboard LED flashers, in Processing and in Minecraft using a modified version of Martin O'Hanlon's [mcpi API](https://github.com/martinohanlon/mcpi) and the [FACT](http://fact.co.uk) [Minecraft CloudMaker Server](http://mc.fact.co.uk:8123/)
+It uses the *brilliant* **Shrimped Arduino kits** from [Shrimping.it](http://start.shrimping.it) at its core and also features prototype methods for visualising data on onboard LED flashers, in Processing and in Minecraft using a modified version of Martin O'Hanlon's [mcpi API](https://github.com/martinohanlon/mcpi) and the [FACT](http://fact.co.uk) [Minecraft CloudMaker Server](http://89.34.96.47:8125/)
 
 ### Background
 
